@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.4.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "eslint-config-airbnb-base": "^13.1.0",
     "firebase": "^5.5.3",
     "vee-validate": "^2.1.0-beta.9",
